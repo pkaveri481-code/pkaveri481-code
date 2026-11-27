@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Kaveri Patil 👋
 
-<!--
-**pkaveri481-code/pkaveri481-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Backend Java Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BCA student passionate about software development and building practical applications using Java and modern web technologies.
+
+### 👩‍💻 About Me
+
+- 🎓 BCA Student
+- 💻 Interested in Backend Development
+- ☕ Learning Advanced Java
+- 🌱 Exploring Java Web Technologies
+- 🚀 Passionate about building practical software applications
+- 📚 Continuously learning and improving my development skills
+
+### 🛠️ Technical Skills
+
+- Java
+- Advanced Java
+- JSP
+- Java Servlets
+- JDBC
+- MySQL
+- Apache Tomcat
+
+### 🎯 Areas of Interest
+
+- Backend Development
+- Web Application Development
+- Database Management
+- Software Development
+
+### 🌱 Currently Learning
+
+Advanced Java and Java-based Web Application Development.
+
+### 🤝 Connect With Me
+
+GitHub: [@pkaveri481-code](https://github.com/pkaveri481-code)
+
+---
+
+⭐ Thanks for visiting my profile!
